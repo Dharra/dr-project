@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/dr-project/static/css/main.23e3622f.css",
+    "main.js": "/dr-project/static/js/main.c62fd601.js",
+    "static/media/442839.jpg": "/dr-project/static/media/442839.4fd1160bb48b35ef4764.jpg",
+    "index.html": "/dr-project/index.html",
+    "main.23e3622f.css.map": "/dr-project/static/css/main.23e3622f.css.map",
+    "main.c62fd601.js.map": "/dr-project/static/js/main.c62fd601.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.23e3622f.css",
+    "static/js/main.c62fd601.js"
+  ]
+}
